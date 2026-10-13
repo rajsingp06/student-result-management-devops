@@ -1,0 +1,1 @@
+.venv/\nvenv/\n__pycache__/\n.pytest_cache/\n*.py[cod]\n.env\n.coverage\n
